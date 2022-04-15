@@ -1,0 +1,5 @@
+"0","day_hour_data <- data %>% group_by(day, hour) %>% dplyr::summarize(Total = n())"
+"1","[38;5;232m`summarise()` has grouped output by 'day'. You can override using the
+`.groups` argument.[39m
+"
+"0","datatable(day_hour_data)"

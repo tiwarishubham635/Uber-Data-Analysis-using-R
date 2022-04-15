@@ -1,0 +1,32 @@
+{
+    "id": "5B1520AF",
+    "path": "D:/1-Shubham/STUDY/CSE/C19_AI_HT_WS/Project-2/Uber Data.Rmd",
+    "project_path": "Uber Data.Rmd",
+    "type": "r_markdown",
+    "hash": "3089718704",
+    "contents": "",
+    "dirty": false,
+    "created": 1649157491803.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "196,31",
+        "scrollLine": "192",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "rmdVisualModeLocation": "806:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1649237292,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1649237292062,
+    "read_only": false,
+    "read_only_alternatives": []
+}

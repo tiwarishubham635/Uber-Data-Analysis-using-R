@@ -1,0 +1,5 @@
+"0","# Plot a heatmap by day of the week and month"
+"0",""
+"0","ggplot(day_month_data, aes(dayofweek, month, fill = Trips)) + "
+"0","geom_tile(color = ""white"") + "
+"0","ggtitle(""Heat Map by Month and Day of weak"")"

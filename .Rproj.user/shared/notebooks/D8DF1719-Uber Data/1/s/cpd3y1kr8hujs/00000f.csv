@@ -1,0 +1,3 @@
+"0","# Aggregate data by day of the month "
+"0","day_data <- data %>% group_by(day) %>% dplyr::summarize(Trips = n())"
+"0","day_data"

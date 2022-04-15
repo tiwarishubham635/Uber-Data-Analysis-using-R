@@ -1,0 +1,6 @@
+"0","# Plot the above data"
+"0","ggplot(day_month_data, aes(dayofweek, Trips, fill = month)) + "
+"0","geom_bar(stat = ""identity"", aes(fill = month), position = ""dodge"") + "
+"0","ggtitle(""Trips by Day and Month"") + "
+"0","scale_y_continuous(labels = comma) + "
+"0","scale_fill_manual(values = colors)"

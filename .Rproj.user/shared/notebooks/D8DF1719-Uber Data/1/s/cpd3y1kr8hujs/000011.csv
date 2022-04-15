@@ -1,0 +1,7 @@
+"0",""
+"0","# Plot the data for the day"
+"0","ggplot(day_data, aes(day, Trips)) + "
+"0","geom_bar(stat = ""identity"", fill = ""steelblue"") +"
+"0","ggtitle(""Trips by day of the month"") + "
+"0","theme(legend.position = ""none"") + "
+"0","scale_y_continuous(labels = comma)"

@@ -1,0 +1,3 @@
+"0","month_data <- data %>% group_by(month) %>% dplyr::summarize(Total = n())"
+"0",""
+"0","month_data"

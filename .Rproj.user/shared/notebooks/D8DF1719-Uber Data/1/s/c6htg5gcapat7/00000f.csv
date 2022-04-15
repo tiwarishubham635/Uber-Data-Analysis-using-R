@@ -1,0 +1,5 @@
+"0","# Plot a heatmap "
+"0",""
+"0","ggplot(month_day_data, aes(day, month, fill = Trips)) + "
+"0","geom_tile(color = ""white"") + "
+"0","ggtitle(""Heat Map by Month and Day"")"

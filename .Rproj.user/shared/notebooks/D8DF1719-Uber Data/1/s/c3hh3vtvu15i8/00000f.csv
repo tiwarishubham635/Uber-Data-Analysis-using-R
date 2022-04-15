@@ -1,0 +1,9 @@
+"0","ggplot(data, aes(x=Lon, y=Lat, color = Base)) +"
+"0","  geom_point(size=1) +"
+"0","     scale_x_continuous(limits=c(min_long, max_long)) +"
+"0","      scale_y_continuous(limits=c(min_lat, max_lat)) +"
+"0","       theme_map() +"
+"0","          ggtitle(""NYC MAP BASED ON UBER RIDES DURING 2014 (APR-SEP) by BASE"")"
+"2","Warning:"
+"2"," Removed 70180 rows containing missing values (geom_point).
+"

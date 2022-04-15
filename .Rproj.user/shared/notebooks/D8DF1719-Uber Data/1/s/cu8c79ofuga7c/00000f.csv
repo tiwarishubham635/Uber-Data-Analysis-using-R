@@ -1,0 +1,9 @@
+"0","# Aggregate the data by month and hour"
+"0","month_hour_data <- data %>% group_by(month, hour) %>%  dplyr::summarize(Total = n())"
+"1","[38;5;232m`summarise()` has grouped output by 'month'. You can override using
+the `.groups` argument.[39m
+"
+"0","ggplot(month_hour_data, aes(hour, Total, fill=month)) + "
+"0","geom_bar(stat = ""identity"") + "
+"0","ggtitle(""Trips by Hour and Month"") + "
+"0","scale_y_continuous(labels = comma)"

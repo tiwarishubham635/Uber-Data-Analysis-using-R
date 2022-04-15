@@ -1,0 +1,7 @@
+"0","# Plotting the trips by hours in a day"
+"0","hourly_data <- data %>% "
+"0","                    group_by(hour) %>% "
+"0","                            dplyr::summarize(Total = n())"
+"0",""
+"0","# Shows data in a searchable js table"
+"0","datatable(hourly_data)"

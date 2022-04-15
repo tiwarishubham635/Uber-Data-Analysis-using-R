@@ -1,0 +1,7 @@
+"0","# Collect data by month and day"
+"0",""
+"0","month_day_data <- data %>% group_by(month, day) %>% dplyr::summarize(Trips = n())"
+"1","[38;5;232m`summarise()` has grouped output by 'month'. You can override using
+the `.groups` argument.[39m
+"
+"0","month_day_data"

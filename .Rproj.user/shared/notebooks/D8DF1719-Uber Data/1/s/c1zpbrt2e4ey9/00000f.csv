@@ -1,0 +1,6 @@
+"0","ggplot(month_data, aes(month, Total, fill = month)) + "
+"0","geom_bar(stat = ""Identity"") + "
+"0","ggtitle(""Trips in a month"") + "
+"0","theme(legend.position = ""none"") + "
+"0","scale_y_continuous(labels = comma) + "
+"0","scale_fill_manual(values = colors)"

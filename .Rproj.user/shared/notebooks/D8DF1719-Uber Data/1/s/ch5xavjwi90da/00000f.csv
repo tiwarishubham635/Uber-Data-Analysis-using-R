@@ -1,0 +1,9 @@
+"0",""
+"0","library(mapview)"
+"0","library(sf)"
+"2","Linking to GEOS 3.9.1, GDAL 3.2.1, PROJ 7.2.1; sf_use_s2() is TRUE
+"
+"0","sbux_sf <- st_as_sf(starbucksNC, coords = c(""Lon"", ""Lat""),  crs = 4326)"
+"2","Error in st_as_sf(starbucksNC, coords = c(""Lon"", ""Lat""), crs = 4326) : 
+  object 'starbucksNC' not found
+"
